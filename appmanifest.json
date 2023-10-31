@@ -1,0 +1,10 @@
+{
+	"name": "เตรียมความพร้อมเข้าสู่สมการ",
+	"short_name": "เตรียมความพร้อมเข้าสู่สมการ",
+	"description": "ตะลุยอวกาศพิชิตโลกดิจิทัล",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": []
+}
